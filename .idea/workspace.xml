@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a952aae6-b79a-43a6-98c7-eb1449b5833b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/apap/tutorial/isPalindrome/controller/PalindromeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/apap/tutorial/isPalindrome/model/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/isPalindromePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/apap/tutorial/isPalindrome/controller/PalindromeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/apap/tutorial/isPalindrome/controller/PalindromeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/apap/tutorial/isPalindrome/controller/PalindromeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/apap/tutorial/isPalindrome/controller/PalindromeController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/apap/tutorial/isPalindrome/controller/PalindromeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="255">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/isPalindromePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="405">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -166,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="726" />
     <option name="width" value="714" />
     <option name="height" value="900" />
@@ -256,6 +256,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -295,15 +296,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630853871693</updated>
-      <workItem from="1630853877431" duration="2163000" />
+      <workItem from="1630853877431" duration="4273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2163000" />
+    <option name="totallyTimeSpent" value="4273000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="738" y="0" width="702" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -312,10 +314,10 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Learn" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21060605" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09942775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
@@ -324,7 +326,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.042168673" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -366,15 +368,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/isPalindromePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="405">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/apap/tutorial/isPalindrome/controller/PalindromeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
