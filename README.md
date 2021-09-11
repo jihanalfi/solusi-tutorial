@@ -24,7 +24,7 @@ Solusi kedua topik akan dibedakan berdasarkan branch.
 
    Library adalah suatu kumpulan kode yang dikompilasikan dan disimpan dalam suatu *file*. *File* tersebut dapat digunakan oleh *developer* untuk membuat suatu aplikasi. Pada umumnya, library berisi kumpulan-kumpulan *function* dan *method* yang dapat dipanggil sesuai dengan kebutuhan. Fungsi-fungsi tersebut juga dapat di-*override* agar dapat disesuaikan dengan kebutuhan. Dengan bantuan library, beban kerja seorang *developer* dapat berkurang karena tidak perlu fokus terhadap pembuatan *method* tertentu. Dependency adalah suatu istilah dimana suatu perangkat lunak bergantung pada perangkat lunak lainnya untuk berjalan. Jika dependency dari suatu perangkat lunak belum ada atau belum di-*install*, maka perangkat lunak tersebut tidak bisa berjalan dengan semestinya.
 
-5. Mengapa kita menggunakan Maven? Apakah ada alternatif dari Maven?
+5. Apa itu Maven? Mengapa kita menggunakan Maven? Apakah ada alternatif dari Maven?
 
    Apache Maven adalah Java Build Tools yang menggunakan konsep Project Object Model (POM). Maven pada umumnya digunakan untuk aplikasi berbasis Java. Maven menyediakan konfigurasi dan informasi mengenai suatu aplikasi, baik daftar *dependency*, laporan *test coverage*, integrasi dengan Git, dan lainnya. Dalam perkuliahan APAP, Maven digunakan untuk melakukan *project build* dan *testing*. Sebelum menjalankan aplikasi Spring yang telah kita buat, Maven memastikan bahwa semua *dependency* dari aplikasi tersebut sudah ada terlebih dahulu. Beberapa alternatif dari Maven adalah Gradle, Ant, CircleCI, atau Jenkins.
 
