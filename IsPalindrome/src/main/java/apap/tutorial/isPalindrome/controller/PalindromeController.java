@@ -16,7 +16,7 @@ public class PalindromeController {
 
         if (kalimat.isEmpty()){
             model.addAttribute("msg", "Tolong masukan sebuah kata");
-        }
+        }g
         else{
             final Palindrome palindrome = new Palindrome(kalimat);
             model.addAttribute("palindrome",palindrome);

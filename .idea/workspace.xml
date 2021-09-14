@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbee3288-ebe4-4f42-bb21-07a151ced4c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/IsPalindrome/src/main/java/apap/tutorial/isPalindrome/controller/PalindromeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/IsPalindrome/src/main/java/apap/tutorial/isPalindrome/controller/PalindromeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/IsPalindrome/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -182,12 +182,12 @@
       <workItem from="1631284618306" duration="33000" />
       <workItem from="1631284835463" duration="48000" />
       <workItem from="1631600991079" duration="157000" />
-      <workItem from="1631601169813" duration="771000" />
+      <workItem from="1631601169813" duration="1030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="928000" />
+    <option name="totallyTimeSpent" value="1187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
