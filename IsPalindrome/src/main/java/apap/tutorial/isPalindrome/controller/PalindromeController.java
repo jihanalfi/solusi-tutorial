@@ -38,6 +38,7 @@ public class PalindromeController {
     public String isPalindromePathVariable(
             @PathVariable(value = "kalimat") String kalimat,
             Model model){
+
         return getPalindromePage(kalimat, model);
     }
 }
