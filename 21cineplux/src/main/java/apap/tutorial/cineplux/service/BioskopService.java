@@ -5,7 +5,9 @@ import apap.tutorial.cineplux.model.BioskopModel;
 import java.util.List;
 
 public interface BioskopService {
-  void addBioskop(BioskopModel bioskopModel);
+  void addBioskop(BioskopModel bioskop);
+  void updateBioskop(BioskopModel bioskop);
   List<BioskopModel> getBioskopList();
-  BioskopModel getBioskopByIdBioskop(String idBioskop);
+  BioskopModel getBioskopByNoBioskop(Long noBioskop);
+  void removeBioskop(BioskopModel bioskop);
 }
