@@ -5,17 +5,8 @@ import apap.tutorial.pergipergi.model.TravelAgensiModel;
 import java.util.List;
 
 public interface TravelAgensiService {
-    //Method untuk menambahkan agensi
     void addAgensi(TravelAgensiModel travelAgensi);
-
-    //Method untuk mendapatkan daftar agensi yang telah tersimpan
     List<TravelAgensiModel> getListAgensi();
-
-    //Method untuk mendapatkan data agensi berdasarkan id agensi
-    TravelAgensiModel getAgensiByidAgensi(String idAgensi);
-
-    //Latihan
-    void updateNomorTelepon(TravelAgensiModel travelAgensi, String nomorTelepon);
-
-    void deleteAgensi(TravelAgensiModel agensi);
+    TravelAgensiModel getAgensiByNoAgensi(Long noAgensi);
+    TravelAgensiModel updateAgensi(TravelAgensiModel travelAgensi);
 }

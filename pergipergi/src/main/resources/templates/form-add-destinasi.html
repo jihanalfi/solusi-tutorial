@@ -8,9 +8,15 @@
     <div class="card m-4 p-4">
         <div class="card-body">
             <div class="justify-content-center">
-                <h2 th:text="'Travel Agensi dengan id Agensi ' + ${noAgensi} + ' berhasil ditambahkan.'"></h2>
+                <h2>Tambah Agensi</h2>
                 <br>
-                <a class="btn btn-primary" href="/">Home</a>
+                <form th:action="@{/destinasi/add}" th:object="${destinasi}" method="POST">
+                    Negara Destinasi : <br>
+                    <input class="form-control" type="text" name="negaraDestinasi"/>
+                    <br><br>
+
+                    <button class="btn btn-primary" type="submit">Submit</button>
+                </form>
             </div>
         </div>
     </div>
